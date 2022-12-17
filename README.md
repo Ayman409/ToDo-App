@@ -3,9 +3,13 @@
 Full ToDo App let user to add his tasks and set reminder any time or days he want.
 
 • Dark Theme / Light Theme
+
 • Getx Statemanagement
+
 • SQflite
+
 • get storage
+
 • UI from Dribbble
 
 
