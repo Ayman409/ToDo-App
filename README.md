@@ -1,6 +1,12 @@
 # todo
 
 Full ToDo App let user to add his tasks and set reminder any time or days he want
+• Dark Theme / Light Theme
+• Getx Statemanagement
+• SQflite
+• get storage
+• UI from Dribbble
+
 
 ![Android Emulator - Pixel_4_API_31_5556 12_17_2022 1_17_41 PM](https://user-images.githubusercontent.com/72998532/208239848-e5134322-fd32-4136-b33f-c0e0884b3bd7.png)
 ![Android Emulator - Pixel_4_API_31_5556 12_17_2022 1_17_49 PM](https://user-images.githubusercontent.com/72998532/208239850-b534ffc2-5c69-4983-bc3b-269bd46954a5.png)
