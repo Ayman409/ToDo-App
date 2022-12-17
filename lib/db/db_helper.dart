@@ -12,7 +12,7 @@ class DBHelper {
     } else {
       try {
         String dbPath = await getDatabasesPath() + 'tasks.db';
-        ;
+        
         db = await openDatabase(dbPath, version: version,
             onCreate: (Database db, int version) async {
           print('crating database');
@@ -20,7 +20,7 @@ class DBHelper {
           await db.execute('CREATE TABLE $tableName ('
               'id INTEGER PRIMARY KEY, '
               'title String, note Text, date String, '
-              'startTime String, EndTime String, '
+              'startTime String, endTime String, '
               'remind INTEGER, repeat String, '
               'color INTEGER,'
               ' isCompleted INTEGER)');

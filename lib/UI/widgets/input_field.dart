@@ -30,7 +30,7 @@ class AInputField extends StatelessWidget {
             title,
             style: titleStyle,
           ),
-          SizedBox(
+          const SizedBox(
             height: 5,
           ),
           Container(
